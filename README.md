@@ -3,7 +3,7 @@
 🌎 I'm a Software Engineer / Games Developer based in Rio de Janeiro, Brazil. </br>
 💻 Currently working as a software engineer entrepreneur. </br>
 📝 You can see a few projects that I've worked at https://www.leafstudio.com.br </br>
-✏️ I'm also starting to write on medium, you can check it here: https://medium.com/@carolinacbmaia </br>
+✏️ I'm also writing on medium, you can check it here: https://medium.com/@carolinacbmaia </br>
 
 -----------------------------------
 
